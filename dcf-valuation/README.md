@@ -67,7 +67,7 @@ This is an independent academic exercise using public data and does not constitu
 | Current Market Price | $333.55 |
 | **Implied Upside / (Downside)** | **(65.3%)** |
 
-![DCF valuation bridge and projected FCF](dcf_valuation_bridge.png)
+![DCF valuation bridge and projected FCF](outputs/dcf_valuation_bridge.png)
 
 ## 5. Sensitivity Analysis
 
